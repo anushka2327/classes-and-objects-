@@ -35,28 +35,31 @@ Main Function:
 2)Input and Output for First Student (s1):  
 3)Assign the following values to the object s1:  
 
-name = "Soham"
-age = 19
-branch = "ENTC"
-prn = 065
-result = 7.8
-year = 2
-4)Display the values stored in s1:  
-5)Print the name, age, branch, prn, result, and year.  
-6)Input and Output for Second Student (s2):  
-7)Assign the following values to the object s2:  
+name = "Soham"  
+age = 19  
+branch = "ENTC"  
+prn = 065  
+result = 7.8  
+year = 2 
 
-name = "Hussain"
-age = 19
-branch = "ENTC"
-prn = 060
-result = 8.83
-year = 2
-8)Display the values stored in s2:  
-9)Print the name, age, branch, prn, result, and year.  
-10)End.  
+4)Display the values stored in s1:   
+5)Print the name, age, branch, prn, result, and year.    
+6)Input and Output for Second Student (s2):    
+7)Assign the following values to the object s2:   
 
-## Defining Method in class
+name = "Hussain"  
+age = 19  
+branch = "ENTC"  
+prn = 060  
+result = 8.83  
+year = 2   
+
+
+8)Display the values stored in s2:    
+9)Print the name, age, branch, prn, result, and year.    
+10)End.    
+
+## Defining Method in class  
 Start
 
 Class Definition:
